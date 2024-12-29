@@ -6,7 +6,7 @@ from typing import List
 HYPHEN_E_DOT = "-e ."
 
 
-def get_requirments(filepath: str) -> list[str]:
+def get_requirements(filepath: str) -> list[str]:
     """
     This function will return the list of requirements
     """
